@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Library to list USB device information including name, manufacturer, vendor ID and product ID.",
   "main": "index.js",
+  "types": "types.d.ts",
   "scripts": {
     "install": "node-gyp-build",
     "rebuild": "node-gyp rebuild"
