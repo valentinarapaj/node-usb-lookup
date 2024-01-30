@@ -20,6 +20,7 @@ declare module 'usb-lookup' {
     function getUSBDeviceInfo(): USBDeviceInfo[];
 
     export {
-        getUSBDeviceInfo
+        getUSBDeviceInfo,
+        USBDeviceInfo
     };
 }
