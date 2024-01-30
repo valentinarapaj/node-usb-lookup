@@ -5,7 +5,7 @@
 ## Installation
 
 You can install `usb-lookup` via npm:
-```
+```bash
 npm install usb-lookup
 ```
 
@@ -23,7 +23,7 @@ Returns an array of objects, each representing a connected USB device. Each obje
 ## Example
 
 Here's a simple example of how to use `usb-lookup`:
-```
+```javascript
 const usbLookup = require('usb-lookup');
 
 // Get USB device information
