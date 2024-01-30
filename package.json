@@ -1,6 +1,6 @@
 {
   "name": "usb-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to list USB device information including name, manufacturer, vendor ID and product ID.",
   "main": "index.js",
   "scripts": {
