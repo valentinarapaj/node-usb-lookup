@@ -13,5 +13,9 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "node-addon-api": "^7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/valentinarapaj/node-usb-lookup.git"
   }
 }
